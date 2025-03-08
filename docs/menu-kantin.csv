@@ -1,0 +1,284 @@
+Kantin,Nama Stall,Nama Produk,Harga,Keterangan Tambahan
+Gedung P,Soto Ayam Jago,Soto ayam biasa,"Rp16,000",
+Gedung P,Soto Ayam Jago,Soto ayam Special,"Rp18,000",lauk ayam lebih banyak dari biasa
+Gedung P,Soto Ayam Jago,Soto ayam goreng,"Rp22,000",
+Gedung P,Soto Ayam Jago,Soto telor biasa/asin,"Rp13,000",bisa pilih telur rebus biasa atau telur rebus asin
+Gedung P,Soto Ayam Jago,Soto telor muda uritan,"Rp16,000",
+Gedung P,Soto Ayam Jago,Soto tempe + tahu crispy,"Rp13,000",
+Gedung P,Soto Ayam Jago,Soto daging sapi,"Rp18,000",
+Gedung P,Soto Ayam Jago,Soto daging sapi spesial,"Rp20,000",lauk daging sapi lebih banyak dari biasa
+Gedung P,Soto Ayam Jago,Nasi uduk ayam goreng/crispy,"Rp22,000",
+Gedung P,Soto Ayam Jago,Nasi uduk telor dadar,"Rp12,000",
+Gedung P,Soto Ayam Jago,Nasi uduk tahu tempe,"Rp12,000",
+Gedung P,Soto Ayam Jago,Nasi uduk 3T ( tahu tempe telor),"Rp16,000",
+Gedung P,Soto Ayam Jago,Nasi uduk empal,"Rp22,000",
+Gedung P,Soto Ayam Jago,Nasi uduk babat paru,"Rp22,000",
+Gedung P,Soto Ayam Jago,Nasi goreng jawa/mawut,"Rp16,000",bisa pilih nasi goreng jawa atau nasi goreng mawut
+Gedung P,Soto Ayam Jago,Nasi goreng babat,"Rp22,000",
+Gedung P,Soto Ayam Jago,Nasi mie sayur,"Rp16,000",
+Gedung P,Soto Ayam Jago,Nasi aneka sayur,,harga bervariasi tergantung sayuran yang dipilih
+Gedung P,NDOKEE! EXPRESS,Cap cay,"Rp30,000",dengan nasi putih
+Gedung P,NDOKEE! EXPRESS,Ayam telur asin,"Rp25,000",dengan nasi putih
+Gedung P,NDOKEE! EXPRESS,Ayam koloke,"Rp25,000",dengan nasi putih
+Gedung P,NDOKEE! EXPRESS,Ayam lada hitam,"Rp25,000",dengan nasi putih
+Gedung P,NDOKEE! EXPRESS,Ayam saos inggris,"Rp25,000",dengan nasi putih
+Gedung P,NDOKEE! EXPRESS,Fuyunghai,"Rp25,000",dengan nasi putih
+Gedung P,NDOKEE! EXPRESS,Goreng ayam,"Rp20,000",dengan bakmie/kwetiau/bihun (pilih 1)
+Gedung P,NDOKEE! EXPRESS,Goreng spesial,"Rp25,000",dengan bakmie/kwetiau/bihun (pilih 1) + lauk telor/lap jiang/ham/kornet/sosis (pilih1)
+Gedung P,NDOKEE! EXPRESS,Goreng telor,"Rp30,000",dengan bakmie/kwetiau/bihun (pilih 1) + lap jiang/ham/kornet/sosis (pilih1)
+Gedung P,NDOKEE! EXPRESS,Cap cay,"Rp30,000",dengan bakmie/kwetiau/bihun (pilih 1)
+Gedung P,NDOKEE! EXPRESS,Goreng UP,"Rp35,000",dengan bakmie/kwetiau/bihun (pilih 1)
+Gedung P,NDOKEE! EXPRESS,Mie ayam lada hitam,"Rp25,000",
+Gedung P,NDOKEE! EXPRESS,Lomie,"Rp20,000",
+Gedung P,NDOKEE! EXPRESS,Tamie cap cay,"Rp35,000",
+Gedung P,NDOKEE! EXPRESS,Nasi putih,"Rp5,000",
+Gedung P,NDOKEE! EXPRESS,Telor,"Rp5,000",bisa pilih dadar/ceplok/orak arik
+Gedung P,NDOKEE! EXPRESS,Nasi goreng ayam,"Rp20,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng spesial,"Rp25,000",pilih lauk telor/lap jiang/ham/kornet/sosis
+Gedung P,NDOKEE! EXPRESS,Nasi goreng mawut,"Rp25,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng hong kong,"Rp25,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng ikan asin,"Rp25,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng telor,"Rp30,000",pilih telor lap jiong/ham/kornet/sosis
+Gedung P,NDOKEE! EXPRESS,Nasi goreng UP,"Rp35,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng telor asin,"Rp35,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng ayam koloke,"Rp35,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng ayam lada hitam,"Rp35,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng saos inggris,"Rp35,000",
+Gedung P,NDOKEE! EXPRESS,Nasi goreng fuyunghai,"Rp35,000",
+Gedung P,Depot KITA,Nasi ayam goreng kremes,"Rp25,000",
+Gedung P,Depot KITA,Nasi ayam goreng kalasan,"Rp25,000",
+Gedung P,Depot KITA,Nasi empal suwir,"Rp25,000",
+Gedung P,Depot KITA,Nasi ayam hongkong,"Rp20,000",bisa jumbo + 8000 (porsi lebih besar)
+Gedung P,Depot KITA,Nasi koloke,"Rp20,000",bisa jumbo + 8000 (porsi lebih besar)
+Gedung P,Depot KITA,Nasi ayam geprek,"Rp20,000",bisa jumbo + 8000 (porsi lebih besar)
+Gedung P,Depot KITA,Nasi ayam kungpao,"Rp20,000",bisa jumbo + 8000 (porsi lebih besar)
+Gedung P,Depot KITA,Nasi ham,"Rp25,000",
+Gedung P,Depot KITA,Nasi fuyunghai,"Rp20,000",
+Gedung P,Depot KITA,Nasi bbq,"Rp20,000",bisa jumbo + 8000 (porsi lebih besar)
+Gedung P,Depot KITA,Sosis bakar,"Rp6,000",untuk 1 sosis (tanpa nasi)
+Gedung P,Depot KITA,Nasi mayo,"Rp25,000",ayam mayo
+Gedung P,Carnival,French fries (kentang),"Rp17,000","dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Mushroom crispy (jamur),"Rp15,000","dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Tahu crispy,"Rp13,000","dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Kulit ayam crispy,"Rp15,000","dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Fishball,"Rp17,000","(bola ikan, isi 10) dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Shrimp ball,"Rp17,000","(bola udang, isi 8) dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Curly fries,"Rp18,000","dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Combo seafood tofu,"Rp20,000","(french fries + seafood tofu) dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Combo nugget,"Rp20,000","(french fries + nugget) dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Carnival,Combo sosis,"Rp20,000","(french fries + sosis) dengan pilihan bumbu: barbeque, ayam bakar, balado, jagung manis, cheese, super pedas dan pilihan saus: saus mayonnaise, chili sauce, tomato sauce (bisa lebih dari 1 bumbu/saus"
+Gedung P,Japanese Food,Yakimeshi original,"Rp20,000",
+Gedung P,Japanese Food,Yakimeshi babi,"Rp25,000",
+Gedung P,Japanese Food,Yakimeshi hongkong,"Rp25,000",
+Gedung P,Japanese Food,Yakimeshi ikan asin,"Rp25,000",
+Gedung P,Japanese Food,Yakimeshi ham telur,"Rp25,000",
+Gedung P,Japanese Food,Yakimeshi smoked beef,"Rp25,000",
+Gedung P,Japanese Food,Yakisoba,"Rp20,000",
+Gedung P,Japanese Food,Ramen,"Rp20,000",pilih tingkat pedas level 0 sampai 10
+Gedung P,Japanese Food,Curry ramen,"Rp25,000",
+Gedung P,Japanese Food,Chickin raisu teriyaki,"Rp25,000",
+Gedung P,Japanese Food,Chickin raisu Yakiniku,"Rp25,000",
+Gedung P,Japanese Food,Chickin raisu blackpepper,"Rp25,000",
+Gedung P,Japanese Food,Chickin raisu karage,"Rp25,000",
+Gedung P,Japanese Food,Chickin raisu katsu,"Rp25,000",
+Gedung P,Japanese Food,Chickin raisu singapore butter milk,"Rp25,000",
+Gedung P,Japanese Food,Omurice,"Rp25,000",
+Gedung P,Japanese Food,Okonomiyaki,"Rp25,000",
+Gedung P,Japanese Food,Sushi katsu,"Rp20,000",
+Gedung P,Japanese Food,Sushi tuna,"Rp20,000",
+Gedung P,Japanese Food,Sushi crabstick,"Rp20,000",
+Gedung P,Japanese Food,Paket hemat bento mix,"Rp20,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi + koloke,"Rp30,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi + lada hitam,"Rp30,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi + ayam mentega,"Rp30,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi +  karage,"Rp30,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi + ayam saos inggris,"Rp30,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi + ayam cabe garam,"Rp30,000",
+Gedung P,Japanese Food,Paket hemat Yakimeshi + katsu,"Rp30,000",
+Gedung P,Japanese Food,Telor,"Rp5,000",bisa dadar/ceploki/orak arik
+Gedung P,Japanese Food,Nasi putih,"Rp5,000",
+Gedung P,OPA OYS,Kopi americano,"Rp15,000",
+Gedung P,OPA OYS,Kopi aren latte,"Rp15,000",
+Gedung P,OPA OYS,Kopi caramel latte,"Rp15,000",
+Gedung P,OPA OYS,Kopi hazelnut latte,"Rp15,000",
+Gedung P,OPA OYS,Kopi Tubruk,"Rp15,000",
+Gedung P,OPA OYS,Kopi cinnamon latte,"Rp15,000",
+Gedung P,OPA OYS,Kopi V60,"Rp15,000",
+Gedung P,OPA OYS,Taro oreo,"Rp15,000",
+Gedung P,OPA OYS,Thai tea,"Rp15,000",
+Gedung P,OPA OYS,Teh tarik,"Rp15,000",
+Gedung P,OPA OYS,Yakult leci,"Rp17,000",
+Gedung P,OPA OYS,Matcha,"Rp18,000",
+Gedung P,OPA OYS,Jus jambu,"Rp10,000",
+Gedung P,OPA OYS,Jus semangka,"Rp10,000",
+Gedung P,OPA OYS,Jus melon,"Rp10,000",
+Gedung P,OPA OYS,Jus sirsak,"Rp10,000",
+Gedung P,OPA OYS,Jus stroberi,"Rp10,000",
+Gedung P,OPA OYS,Jus jeruk,"Rp10,000",
+Gedung P,OPA OYS,Jus pisang,"Rp10,000",
+Gedung P,OPA OYS,Jus buah naga,"Rp10,000",
+Gedung P,OPA OYS,Jus mangga,"Rp10,000",
+Gedung P,OPA OYS,Jus alpukat,"Rp12,000",
+Gedung P,OPA OYS,Jus wortel,"Rp10,000",
+Gedung P,OPA OYS,Jus timun,"Rp10,000",
+Gedung P,OPA OYS,Jus apel,"Rp10,000",
+Gedung P,OPA OYS,Milkshake fosco,"Rp15,000",
+Gedung P,OPA OYS,Milkshake black forest,"Rp15,000",
+Gedung P,OPA OYS,Milkshake choco cream,"Rp15,000",
+Gedung P,OPA OYS,Milkshake rum raisin,"Rp15,000",
+Gedung P,OPA OYS,Milkshake vanilla ria,"Rp15,000",
+Gedung P,OPA OYS,Milkshake tiramisu,"Rp15,000",
+Gedung P,OPA OYS,Milkshake milk cream,"Rp15,000",
+Gedung P,OPA OYS,Milkshake cappucino,"Rp15,000",
+Gedung P,OPA OYS,Teh / Es teh,"Rp5,000",bisa minta hangat/dingin/es + manis/tawar
+Gedung P,OPA OYS,Sirup melon,"Rp5,000",
+Gedung P,OPA OYS,Sirup anggur,"Rp5,000",
+Gedung P,OPA OYS,Jeruk peras,"Rp7,000",
+Gedung P,OPA OYS,Es cao / cao susu,"Rp7,000",
+Gedung P,OPA OYS,Nutrisari,"Rp7,000",pilih rasa nutrisari
+Gedung P,Dapur Mapan,Nasi merah,"Rp10,000","dari beras merah (nasi aja, tanpa lauk)"
+Gedung P,Dapur Mapan,Nasi pecel ori,"Rp12,000","nasi + bumbu pecel, tanpa lauk"
+Gedung P,Dapur Mapan,Nasi rawon,"Rp25,000",
+Gedung P,Dapur Mapan,Nasi krengsengan,"Rp25,000",
+Gedung P,Dapur Mapan,Nasi empal kremes,"Rp25,000",
+Gedung P,Dapur Mapan,Nasi paru pedas,"Rp25,000",
+Gedung P,Dapur Mapan,Nasi cumi,"Rp25,000",
+Gedung P,Dapur Mapan,Nasi dori telur asin,"Rp23,000",
+Gedung P,Dapur Mapan,Nasi ayam bakar,"Rp23,000",
+Gedung P,Dapur Mapan,Nasi ayam matah,"Rp22,000",
+Gedung P,Dapur Mapan,Nasi ayam kremes,"Rp22,000",
+Gedung P,Dapur Mapan,Nasi ayam penyet,"Rp22,000",
+Gedung P,Dapur Mapan,Nasi ayam rendang,"Rp22,000",
+Gedung P,Dapur Mapan,Nasi ayam mayo,"Rp22,000",
+Gedung P,Dapur Mapan,Nasi ayam kungpao,"Rp22,000",
+Gedung P,Dapur Mapan,Nasi tahu+telor kare,"Rp15,000",
+Gedung P,Dapur mapan,"Nasi penyetan 3T (tahu, tempe terong)","Rp16,000",
+Gedung P,Dapur Mapan,Nasi usus+tempe penyet,"Rp16,000",
+Gedung P,Dapur Mapan,Nasi jamur + bayam penyet,"Rp20,000",
+Gedung P,Dapur Mapan,Nasi telur isi ayam,"Rp22,000",
+Gedung P,Bubur Ayam Citra,Bubur ayam original,"Rp15,000","dapat kerupuk, bisa ayam pedas, bisa request lauk pisah tambahan harga Rp1,000"
+Gedung P,Bubur Ayam Citra,Bubur ayam jamur,"Rp20,000","dapat kerupuk, bisa ayam jamur pedas, bisa request lauk pisah tambahan harga Rp1,000"
+Gedung P,Bubur Ayam Citra,Bubur polos,"Rp15,000","dapat kerupuk, bisa request lauk pisah tambahan harga Rp1,000"
+Gedung P,Bubur Ayam Citra,Telur puyuh bacem (4 biji),"Rp5,000",
+Gedung P,Bubur Ayam Citra,Telur ayam bacem (1 biji),"Rp5,000",
+Gedung P,Bubur Ayam Citra,Ceker bumbu kecap,"Rp5,000",
+Gedung P,Bubur Ayam Citra,Ati rempela,"Rp5,000",
+Gedung P,Bubur Ayam Citra,Sate usus (1 tusuk),"Rp2,000",
+Gedung P,Bubur Ayam Citra,Telur asin,"Rp5,000",
+Gedung P,Bubur Ayam Citra,Emping,"Rp7,000",
+Gedung W,Pangsit Mie Bu Kusni,Pangsit Mie,"Rp15,000",
+Gedung W,Pangsit Mie Bu Kusni,Pangsit Mie Jumbo,"Rp20,000",
+Gedung W,Pangsit Mie Bu Kusni,Pangsit Mie Komplit,"Rp20,000",
+Gedung W,Pangsit Mie Bu Kusni,Pangsit Mie Komplit Jumbo,"Rp25,000",
+Gedung W,Pangsit Mie Bu Kusni,Mie Bakwan,"Rp16,000",
+Gedung W,Pangsit Mie Bu Kusni,Mie Bakwan Jumbo,"Rp21,000",
+Gedung W,Ayam Bakar Bu Toyo,Nasi Ayam Bakar,"Rp17,000",
+Gedung W,Ayam Bakar Bu Toyo,Nasi Ayam Goreng Laos,"Rp17,000",
+Gedung W,Ayam Bakar Bu Toyo,Nasi Bebek Goreng,"Rp25,000",
+Gedung W,Ayam Bakar Bu Toyo,Nasi Babi Kecap,"Rp22,000",
+Gedung W,Harvest Chicken Express,Crispy French Fries,"Rp10,000",Tersedia 4 pilihan bumbu: Barbeque cheese balado dan seaweed
+Gedung W,Harvest Chicken Express,Rice Beef,"Rp21,000",Tersedia 4 pilihan rasa: 1. Yoshinoya (Saus ala yoshinoya! All times favourite!) 2. Blackpepper (saus lada hitam ala oriental classic) 3. Oseng mercon (ditumis dengan sambal mercon jozz!) 4. Thailand (asam manis menggugah seleramu!)
+Gedung W,Harvest Chicken Express,Nasi Ayam Geprek Jozz,"Rp18,000",
+Gedung W,Harvest Chicken Express,Paket Rame,"Rp17,000",Nasi ayam goreng crispy dengan saus. Ayam bisa pilih dada atau paha atas
+Gedung W,Harvest Chicken Express,Paket Pokpok,"Rp18,000","Nasi ayam goreng crispy fillet ditaburi bumbu dan dilapisi saus. Ada 5 pilihan bumbu: Barbeque seaweed cheese balado chili. Ada 4 pilihan saus: 1. Thailand Sauce (saus asam manis) 2. Korean Honey (saus madu ala Korea) 3. Volcano Sauce (saus ala barbeque pedas 4. Teriyaki Sauce (saus ala Jepang, asin dan gurih)"
+Gedung W,Harvest Chicken Express,Fried Chicken,"Rp14,000",Ala carte (tanpa nasi)
+Gedung W,Harvest Chicken Express,Fillet Pokpok,"Rp16,000",Ala carte (tanpa nasi)
+Gedung W,Harvest Chicken Express,Makaroni,"Rp10,000",
+Gedung W,Harvest Chicken Express,Basreng Ori,"Rp15,000",
+Gedung W,Harvest Chicken Express,Basreng Pedas,"Rp16,000",
+Gedung W,Istana Es,Jus Tomat,"Rp10,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Wortel,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Jambu,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Buah Naga,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Sirsak,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Jeruk,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Melon,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Semangka,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Pisang,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Mangga,"Rp11,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Mix,"Rp13,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Alpukat,"Rp13,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Stroberi,"Rp13,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Lemon,"Rp15,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Jus Durian,"Rp15,000",Tersedia ukuran besar dengan menambah sejumlah 4000 rupiah
+Gedung W,Istana Es,Fanta,"Rp8,000",
+Gedung W,Istana Es,Sprite,"Rp8,000",
+Gedung W,Istana Es,Coke,"Rp8,000",
+Gedung W,Istana Es,Soda Gembira,"Rp9,000",
+Gedung W,Istana Es,Mega Mendung,"Rp9,000",
+Gedung W,Istana Es,Kopi Susu,"Rp11,000",
+Gedung W,Istana Es,Milo,"Rp11,000",
+Gedung W,Istana Es,Milo Cao,"Rp11,000",
+Gedung W,Istana Es,Cappucino Cao,"Rp12,000",
+Gedung W,Istana Es,Thai Tea Cincau,"Rp12,000",
+Gedung W,Istana Es,Mocha Caramel Latte,"Rp12,000",
+Gedung W,Istana Es,Coffee Latte Hazelnut,"Rp12,000",
+Gedung W,Istana Es,Chocolate Coffee Latte,"Rp12,000",
+Gedung W,Istana Es,Milkshake Stroberi,"Rp11,000",
+Gedung W,Istana Es,Milkshake Cappucino,"Rp11,000",
+Gedung W,Istana Es,Milkshake Durian,"Rp11,000",
+Gedung W,Istana Es,Milkshake Mangga,"Rp11,000",
+Gedung W,Istana Es,Milkshake Coklat,"Rp11,000",
+Gedung W,Istana Es,Milkshake Vanilla Latte,"Rp11,000",
+Gedung W,Istana Es,Milkshake Lychee,"Rp11,000",
+Gedung W,Istana Es,Milkshake Choco Cookies,"Rp11,000",
+Gedung W,Istana Es,Milkshake Dark Chocolate,"Rp11,000",
+Gedung W,Istana Es,Milkshake Choco Cheese,"Rp11,000",
+Gedung W,Istana Es,Milkshake Caramel Popcorn,"Rp11,000",
+Gedung W,Istana Es,Milkshake Choco Oreo,"Rp13,000",
+Gedung W,Istana Es,Es Teh,"Rp5,000",
+Gedung W,Istana Es,Wintermelon Tea,"Rp8,000",
+Gedung W,Istana Es,Teh Susu,"Rp9,000",
+Gedung W,Istana Es,Lychee Tea,"Rp9,000",
+Gedung W,Istana Es,Mango Tea,"Rp9,000",
+Gedung W,Istana Es,Lemon Tea,"Rp9,000",
+Gedung W,Istana Es,Liang Tea,"Rp9,000",
+Gedung W,Istana Es,Orange/Lemon Squash,"Rp9,000",
+Gedung W,Istana Es,Lychee Squash,"Rp9,000",
+Gedung W,Istana Es,Milky Orange Squash,"Rp10,000",
+Gedung W,Istana Es,Es Jeruk Nipis,"Rp10,000",
+Gedung W,Istana Es,Lohan Kuo,"Rp10,000",
+Gedung W,Istana Es,Es Cao Serut,"Rp10,000",
+Gedung W,Istana Es,Lemon Jelly Squash,"Rp12,000",
+Gedung W,Bakpao Gracio,Bakpao Ayam Jamur,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Durian,"Rp10,000",
+Gedung W,Bakpao Gracio,Bakpao Ayam Bakar,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Beef Steak,"Rp10,000",
+Gedung W,Bakpao Gracio,Bakpao Cokelat,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Cokelat-Keju,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Kacang Hijau,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Kacang Tanah,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Pasir Emas,"Rp10,000",
+Gedung W,Bakpao Gracio,Bakpao Tuna,"Rp10,000",
+Gedung W,Bakpao Gracio,Bakpao Keju Susu,"Rp9,000",
+Gedung W,Bakpao Gracio,Bakpao Tausa Kenari,"Rp9,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Nasi Penyet Suwir Kremes,"Rp17,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Nasi Ham Telor Kremes,"Rp17,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Nasi Wader Kremes,"Rp15,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Nasi Putih,"Rp5,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Telor Ceplok-Dadar,"Rp5,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Sosis,"Rp3,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Bakwan,"Rp5,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Tempura,"Rp1,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Sambal,"Rp3,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Tahu,"Rp2,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Tempe,"Rp2,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Terong,"Rp2,000",
+Gedung W,Penyetan Asli Suroboyo Bu Agus,Dadar Jagung,"Rp2,000",
+Gedung W,ABC Jaya,Nasi Hainan,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Bakmoy,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Fuyunghai,"Rp15,000",
+Gedung W,ABC Jaya,Nasis Ayam Saus Tiram,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Koloke,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Rendang Ayam,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Ayam Kulis Krispy,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Ayam Teriyaki,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Uduk,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Ayam Kecap,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Ayam Goreng Bawang,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Ayam Crispy,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Chasio Ayam,"Rp17,000",
+Gedung W,ABC Jaya,Nasi Empal Maknyus,"Rp20,000",
+Gedung W,ABC Jaya,Nasi Shanghai,"Rp20,000",
+Gedung W,ABC Jaya,Nasi Rawon,"Rp20,000",
+Gedung W,ABC Jaya,Bacon Egg and Rice,"Rp18,000",

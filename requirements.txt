@@ -1,0 +1,5 @@
+llama-index
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+streamlit
+llama-index-retrievers-bm25
